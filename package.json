@@ -1,0 +1,22 @@
+{
+  "name": "BrowserDetectLab",
+  "version": "1.0.0",
+  "description": "Do some experiments for some usability browser version detection tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhenyong/BrowserDetectLab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhenyong/BrowserDetectLab/issues"
+  },
+  "homepage": "https://github.com/zhenyong/BrowserDetectLab",
+  "dependencies": {
+    "mocha": "^2.2.4"
+  }
+}
